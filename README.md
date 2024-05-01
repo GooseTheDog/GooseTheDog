@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Alejandro! <br/><a href="https://www.linkedin.com/in/alejandromosquera36373747474/">Cybersecurity Professional</a></h1>
 
-<!--
-**GooseTheDog/GooseTheDog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <h2>Certifications</h2>
+- IT Fundamentals Pro, TestOut                  
+- Google IT Support Specialization
+- Google Cybersecurity Specialization
+- CompTIA Security Plus
+- IBM Microsoft Windows Defender and Firewall
 
-Here are some ideas to get you started:
+<h2> Cyber Security Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Active Directory Lab</b>
+  - [Setting Up An Active Directory Lab](url)
+    
+<h2> Socials:</h2>
+<b> <a href="https://www.linkedin.com/in/alejandromosquera36373747474/">LinkedIn</a>
